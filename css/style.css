@@ -1,0 +1,461 @@
+body
+{
+    margin: 0px;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: center;
+}
+a
+{
+    text-decoration: none;
+}
+.title_style
+{
+    padding-top: 20px;
+    text-align: center;
+}
+.title_style_2
+{
+    font-size: 35px;
+    padding-top: 115px;
+    text-align: center;
+}
+
+/***********************************************************************************************************************
+header
+***********************************************************************************************************************/
+.topdiv
+{
+    background-color: black;
+    color: white;
+}
+.topdiv a
+{
+    text-decoration: none;
+    color: white;
+}
+    .red_button
+    {
+        background-color: red;
+        padding: 10px;
+        display: inline-block;
+    }
+    .red_button:hover
+    {
+        background-color: #F66;
+    }
+
+    .black_loginbutton
+    {
+        background-color: #26262a;
+        padding: 10px;
+        display: inline-block;
+    }
+    .black_loginbutton:hover
+    {
+        background-color: #0ad595;
+        color: black;
+    }
+
+    .logo,
+    .buttons
+    {
+        display: inline-block;
+        vertical-align: middle;
+        width: 49.56%;
+    }
+    .buttons
+    {
+        text-align: right;
+    }
+/***********************************************************************************************************************
+menu
+***********************************************************************************************************************/
+.menubuttons
+{
+    display: inline-block;
+    font-size: 20px;
+    background-color: black;
+    margin-top: 1px;
+    width: 100%;
+}
+    .menubutton
+    {
+        display: inline-block;
+        padding: 20px;
+    }
+    .menubutton:hover
+    {
+        background-color: #2D4050;
+    }
+
+    .greentext
+    {
+        color: #49C35D;
+        text-decoration: none
+    }
+    .whitetext
+    {
+        color: white;
+        text-decoration: none
+    }
+.kapcsolat_div
+{
+    text-align: center;
+    background-color: black;
+}
+    .kapcsolat
+    {
+        text-align: center;
+        font-size: 40px;
+        font-family: "Segoe Print";
+        color: white;
+    }
+    .inputbox
+    {
+        padding-bottom: 20px;
+    }
+        .Wannacode
+        {
+            color: #49C35D;
+        }
+    .search_input
+    {
+        display: inline-block;
+        height: 40px;
+        width: 80%;
+        text-align: center;
+    }
+/***********************************************************************************************************************
+pnjnhobh
+***********************************************************************************************************************/
+.div3
+{
+    font-size: 50px;
+    color: white;
+    background-color: #222;
+    background-image: url("https://www.wannacode.com/Runtime/front/test/assets/images/static/bg_sub-header_2.png");
+}
+    .box
+    {
+        margin-bottom: 40px;
+    }
+    .box,
+    .picture,
+    .text
+    {
+        display: inline-block;
+        vertical-align: middle;
+        width: 49%;
+    }
+    .text div
+        {
+            margin: 20px
+        }
+        .picture
+        {
+            width: 24%;
+            text-align: center;
+        }
+        .text
+        {
+            width: 70%;
+        }
+            .subtitle
+            {
+                font-size: 25px
+            }
+/***********************************************************************************************************************
+Kurzus kategoriák
+***********************************************************************************************************************/
+.kurzus_kategoriak
+{
+    padding-bottom: 25px;
+}
+.kurzus
+{
+    padding-top: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+.Four_elements
+{
+    display: inline-block;
+    width: 20.5%;
+    vertical-align: middle;
+    padding-left: 2%;
+}
+    .horsedick
+    {
+        display: inline-block;
+        font-size: 13px;
+    }
+    .websites_header,
+    .websites
+    {
+        font-size: 30px;
+    }
+    .websites
+    {
+        padding-top: 8%;
+        padding-left: 5%;
+    }
+    .websites_header
+    {
+        margin-top: 8%;
+        padding-top: 1px;
+        padding-left: 5%;
+    }
+
+    .linkimg
+    {
+        height: 350px;
+        max-height: 100%;
+        max-width: 100%;
+        width: 100%;
+    }
+    .horsedick
+    {
+        font-size: 25px;
+    }
+.header_2
+{
+    padding: 30px 0px 15px 30px;
+    font-size: 25px;
+}
+.designs
+{
+    padding-left: 30px;
+}
+.kurzus_kategoriak
+{
+    background-color: #fafafa;
+
+}
+/***********************************************************************************************************************
+Kurzusok
+***********************************************************************************************************************/
+.classes_elements
+{
+    background-color: white;
+    margin-bottom: 50px;
+    }
+        .classes_title
+        {
+            font-size: 35px;
+            text-align: center;
+         }
+    .class_picture_and_text
+    {
+        display: inline-block;
+        width: 25%;
+        vertical-align: middle;
+        line-height: 20px
+    }
+        .class_picture_and_text .Classes_picture
+        {
+            margin: 30px;
+            border: 1px solid #d7d7d7;
+        }
+            .hearth_icon,
+            .megtekint_icon
+            {
+                display: inline-block;
+                width: 16px;
+                height: 16px;
+                background-image: url("https://www.wannacode.com/Runtime/front/test/assets/images/static/favorite-3-16.png");
+            }
+    .gombok
+    {
+        vertical-align: middle;
+    }
+    .green.button
+    {
+        margin-bottom: 2px;
+        text-align: center;
+        background-color: #30d9a4;
+        color: white;
+        font-size: 30px;
+        padding: 15px;
+    }
+    .green_button_position
+    {
+        text-align: center;
+        margin: 0px 0px 80px;
+        display: inline-block;
+        width: 100%;
+    }
+    .green.button:hover
+    {
+        background-color: darkblue;
+    }
+/***********************************************************************************************************************
+Kurzusok
+***********************************************************************************************************************/
+.six_elements,
+.eight_elements
+{
+    font-size: 0px;
+    text-align: center
+}
+.six_elements > div,
+.eight_elements > div
+{
+    font-size: 20px;
+    display: inline-block;
+}
+.Classes_picture img
+{
+    object-fit: cover;
+    width: 100%;
+}
+
+.proportionately
+{
+    border-top: 1px solid #d7d7d7;
+    font-size: 0px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+    .proportionately a
+    {
+        color: #488DC6;
+    }
+    .proportionately > div
+    {
+        font-size: 20px;
+        display: inline-block;
+        vertical-align: middle;
+        width: 50%;
+        margin-top: 20px;
+    }
+    .proportionately > div:last-child
+    {
+        text-align: center;
+    }
+        .button_border
+        {
+            border-left: 1px solid #569696;
+        }
+
+.footer
+{
+    background-color: black;
+    color: white;
+    }
+    .footer .title_style
+    {
+        padding-top: 60px;
+    }
+
+.newsletter_content
+{
+    max-width: 720px;
+    margin: 0 auto;
+}
+    .name
+    {
+        font-size: 0;
+    }
+        .name div
+        {
+            font-size: 15px;
+            display: inline-block;
+            width: 48%;
+            margin-top: 10px;
+            margin-left: 1%;
+            margin-right: 1%;
+            /*margin: 10px 1%;*/
+        }
+    .item
+    {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+.newsletter_content input
+{
+    background-color: #262626;
+    color: white;
+}
+    .newsletter_content input,
+    .newsletter_content a
+    {
+        display: block;
+        width: 100%;
+        padding: 0;
+        border: 0;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-size: 20px;
+        text-align: center;
+    }
+.newsletter_content a
+{
+    color:#569696;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 25px;
+}
+    .newsletter_content a:hover
+    {
+        background-color: #569696;
+        color: white;
+    }
+    .footer_tabs
+    {
+        width: 100%;
+    }
+    .footer_tab
+    {
+        display: inline-block;
+        width:22%;
+        vertical-align: top;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+        .distance
+        {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+            .grey_text
+            {
+                color: grey;
+                line-height: 20px;
+            }
+            .grey_text:hover
+            {
+                color: cyan;
+            }
+            .report_error
+            {
+                display: inline-block;
+                background-color: crimson;
+                padding: 10px;
+            }
+            .red_title
+            {
+                font-weight: bold;
+                font-size: 30px;
+                color: crimson;
+            }
+        .dark_line
+        {
+            padding: 10px;
+            text-align: center;
+            color: grey;
+            background-color: #202020;
+        }
+        .report_error a
+        {
+            text-decoration: none;
+            color: white;
+        }
+
+    /*kepnek: width:100% és object-fit:cover
+    kitölti a szülő elemnek a méretét
+    a szülőre meg kell adni, hogy tejesen kitöltse a méretet amit csak tud: display: block
+    */
